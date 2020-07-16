@@ -15,7 +15,7 @@ wait = WebDriverWait(driver, 600)
 
 # Replace 'Friend's Name' with the name of your friend 
 # or the name of a group 
-target = '"Tharkie"'
+target = '"Ку"'
 
 # Replace the below string with your own message
 string = "I am sad!"
